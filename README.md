@@ -1,9 +1,12 @@
 ### Ful Al Sayab :woman_technologist: :trophy:
 
 Hey there 👋,
+
 :musical_score: 🐱 :cat:  :dog:
 
-Developer making awesome things for awesome people 🚀
+* Computer Scientist/Engineer NC State University. Looking for ways to make an impact.
+
+* Developer making awesome things for awesome people 🚀
 
 ### Stay awesome!
 
