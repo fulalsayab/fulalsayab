@@ -1,10 +1,10 @@
 ### Ful Al Sayab :woman_technologist: :trophy:
 
-Hey there 👋,
+ Hey there 👋 Welcome to my GitHub personal page :love_letter:,
 
-:musical_score: 🐱 :cat:  :dog:
+* Computer Scientist/Engineer NC State University :computer: :nerd_face:. Looking for ways to make an impact :cowboy_hat_face: .
 
-* Computer Scientist/Engineer NC State University. Looking for ways to make an impact.
+* Cats 🐱 :cat: lover, I enjoy classic music :musical_score: Gamer :video_game: and :walking_woman:
 
 * Developer making awesome things for awesome people 🚀
 
