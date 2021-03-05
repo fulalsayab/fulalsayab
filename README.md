@@ -1,4 +1,4 @@
-### Ful Al Sayab :woman_technologist: :trophy:
+#### Ful Al Sayab :woman_technologist: :trophy:
 
  Hey there 👋 Welcome to my GitHub personal page :love_letter:,
 
@@ -8,7 +8,9 @@
 
 * Developer making awesome things for awesome people 🚀
 
-### Stay awesome!
+####### Stay awesome!
+
+![alt text](https://github.com/fulalsayab/fulalsayab/blob/main/programming.gif)
 
 <!--
 **fulalsayab/fulalsayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
