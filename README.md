@@ -6,7 +6,7 @@
 
 * Developer making awesome things for awesome people 🚀
 
-####### Stay awesome!
+###### Stay awesome!
 
 ![alt text](https://github.com/fulalsayab/fulalsayab/blob/main/programming.gif)
 
