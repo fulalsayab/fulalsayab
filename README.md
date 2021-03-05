@@ -4,8 +4,6 @@
 
 * Computer Scientist/Engineer NC State University :computer: :nerd_face:. Looking for ways to make an impact :cowboy_hat_face: .
 
-* Cats 🐱 :cat: lover, I enjoy classic music :musical_score: vedio gamer :video_game: and :walking_woman:
-
 * Developer making awesome things for awesome people 🚀
 
 ####### Stay awesome!
