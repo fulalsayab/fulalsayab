@@ -8,7 +8,7 @@
 
 #### Stay awesome!
 
-![alt text](https://tenor.com/view/enter-dev-developer-commit-git-gif-21009539)
+![alt text](https://github.com/fulalsayab/fulalsayab/blob/main/tenor.gif)
 
 <!--
 **fulalsayab/fulalsayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
