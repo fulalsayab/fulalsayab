@@ -8,7 +8,7 @@
 
 #### Stay awesome!
 
-![alt text](https://github.com/fulalsayab/fulalsayab/blob/main/tenor.gif)
+![alt text](https://github.com/fulalsayab/fulalsayab/blob/main/desk.png)
 
 <!--
 **fulalsayab/fulalsayab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
