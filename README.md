@@ -1,6 +1,8 @@
 #### Ful Al Sayab :woman_technologist: :trophy:
 
  Hey there 👋 Welcome to my GitHub personal page :love_letter:,
+ 
+* Software Engineer At [Bandwidth](https://www.bandwidth.com/).
 
 * Computer Scientist/Engineer NC State University :computer: :nerd_face:. Looking for ways to make an impact :cowboy_hat_face: .
 
